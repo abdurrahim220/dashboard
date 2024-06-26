@@ -19,7 +19,7 @@
 Setup directory for project:
 
 ```bash
-git clone https://github.com/short-circuit-science/Fatbets-Internal-Tool-Frontend.git
+git clone https://github.com/abdurrahim220/dashboard
 cd Fatbets-Internal-Tool-Frontend.git
 
 ```
